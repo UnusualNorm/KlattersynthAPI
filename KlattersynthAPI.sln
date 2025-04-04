@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlatterSynthAPI", "KlattersynthAPI.csproj", "{09C15D42-32C2-487F-9D09-FEF30BF149BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine", ".\UnityEngine\UnityEngine.csproj", "{1CFBF7DB-CAE8-420C-8CC8-5D1ACE40E343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C15D42-32C2-487F-9D09-FEF30BF149BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C15D42-32C2-487F-9D09-FEF30BF149BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C15D42-32C2-487F-9D09-FEF30BF149BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C15D42-32C2-487F-9D09-FEF30BF149BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFBF7DB-CAE8-420C-8CC8-5D1ACE40E343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFBF7DB-CAE8-420C-8CC8-5D1ACE40E343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFBF7DB-CAE8-420C-8CC8-5D1ACE40E343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFBF7DB-CAE8-420C-8CC8-5D1ACE40E343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9756E33-C0F1-44F7-8DBC-24C07AB91E4A}
+	EndGlobalSection
+EndGlobal
